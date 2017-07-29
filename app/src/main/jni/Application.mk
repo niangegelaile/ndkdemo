@@ -1,0 +1,2 @@
+APP_MODULES := MyJni
+APP_ABI := all
